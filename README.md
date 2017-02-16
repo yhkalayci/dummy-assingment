@@ -13,3 +13,5 @@ To install [Octave kernel](https://github.com/Calysto/octave_kernel) to Jupyter 
 
 ### Assignment
 In this assignment you are expected to generate fibonacci numbers by **fast fibonacci transform** and plot the ratio of two succesive elements (we expect it to converge golden ratio). To see detailed explanation, look at [Fibonacci.ipynb](Fibonacci.ipynb). You should write your code into [Fibonacci.ipynb](Fibonacci.ipynb) and submit it as explained in [course-description](https://github.com/CMPE482-Spring2017-Bogazici/course-description).
+
+This assignment is due *Feb 22nd, 14:00*.
